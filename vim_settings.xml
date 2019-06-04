@@ -3,10 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559662469004">
+      <file name="/Dummy.txt" timestamp="1559667368754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1559650785499">
+      <file name="/Python Console" timestamp="1559666078276">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/First_python_project/First_python_project.py" timestamp="1559665571014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/First_Project/.idea/First_app.py" timestamp="1559661943697">
@@ -28,6 +31,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
