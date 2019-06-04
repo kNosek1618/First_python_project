@@ -9,7 +9,7 @@
       <file name="/Python Console" timestamp="1559650785499">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/First_Project/.idea/First_app.py" timestamp="1559651521698">
+      <file name="$USER_HOME$/PycharmProjects/First_Project/.idea/First_app.py" timestamp="1559657940997">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -19,7 +19,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
