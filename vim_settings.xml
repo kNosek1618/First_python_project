@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559676710863">
+      <file name="/Dummy.txt" timestamp="1559682499931">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -32,8 +32,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python_fun/python_fun.py" timestamp="1559676772331">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/python_fun/python_fun.py" timestamp="1559682428842">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -47,13 +50,13 @@ character_language = &quot;python&quot;
 print (+ character_as + &quot;is was always interesting new technologies)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e variable</text>
+        <text>p</text>
       </register>
       <register name="2" type="8">
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e variable</text>
+        <text>p</text>
       </register>
     </registers>
     <search>
@@ -75,6 +78,9 @@ print (+ character_as + &quot;is was always interesting new technologies)</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
