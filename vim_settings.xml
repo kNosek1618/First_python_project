@@ -3,14 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559667856946">
+      <file name="/Dummy.txt" timestamp="1559672733865">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1559668835943">
+      <file name="/Python Console" timestamp="1559673495482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/First_python_project/First_python_project.py" timestamp="1559665571014">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/variables/variables.py" timestamp="1559673312130">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="66" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/learn_python/learn_python.py" timestamp="1559668893384">
         <mark key="'" line="12" column="6" />
@@ -29,8 +35,20 @@
       <jump line="11" column="6" filename="$USER_HOME$/PycharmProjects/learn_python/learn_python.py" />
     </jumps>
     <registers>
+      <register name="1" type="4">
+        <text>character_as = &quot;noise&quot;
+character_language = &quot;python&quot;
+
+print (+ character_as + &quot;is was always interesting new technologies)</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>pierwszej</text>
+        <text>character_as = &quot;noise&quot;
+character_language = &quot;python&quot;
+
+print (+ character_as + &quot;is was always interesting new technologies)</text>
+      </register>
+      <register name="2" type="8">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
         <text>pierwszej</text>
