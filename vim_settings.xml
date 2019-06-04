@@ -23,11 +23,11 @@
         <mark key="^" line="0" column="66" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/learn_python/learn_python.py" timestamp="1559668893384">
+      <file name="$USER_HOME$/PycharmProjects/learn_python/learn_python.py" timestamp="1559689734040">
         <mark key="'" line="12" column="6" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/First_Project/.idea/First_app.py" timestamp="1559661943697">
         <mark key="[" line="0" column="7" />
@@ -47,22 +47,29 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CnByaW50ICgiIikKCgpwaHJhc2UgPSAiZ29pbmcgdG8iCnNlbnRlbmNlID0gKCBwaHJhc2UgKyAiIGNsZWFuIGNvZGUhIikKcHJpbnQgKHNlbnRlbmNlKQ==</text>
+        <text>2
+#</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnByaW50ICgiIikKCgpwaHJhc2UgPSAiZ29pbmcgdG8iCnNlbnRlbmNlID0gKCBwaHJhc2UgKyAiIGNsZWFuIGNvZGUhIikKcHJpbnQgKHNlbnRlbmNlKQ==</text>
+        <text>x</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CnByaW50ICgiIikKCgpwaHJhc2UgPSAiZ29pbmcgdG8iCnNlbnRlbmNlID0gKCBwaHJhc2UgKyAiIGNsZWFuIGNvZGUhIikKcHJpbnQgKHNlbnRlbmNlKQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>character_as = &quot;noise&quot;
 character_language = &quot;python&quot;
 
 print (+ character_as + &quot;is was always interesting new technologies)</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>&quot;</text>
       </register>
+      <register name="w" type="4">
+        <text>wew</text>
+      </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
