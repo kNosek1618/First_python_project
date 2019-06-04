@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559675973952">
-        <mark key="[" line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1559676710863">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
@@ -31,6 +31,9 @@
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/python_fun/python_fun.py" timestamp="1559676772331">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
