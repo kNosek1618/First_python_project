@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/kNosek1618/numbers_of_python.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kNosek1618/input_python.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kooon\PycharmProjects" />
