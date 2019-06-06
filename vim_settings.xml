@@ -3,18 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559821870598">
+      <file name="/Dummy.txt" timestamp="1559824334179">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1559687129814">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/simple_calculator/simple_calculator.py" timestamp="1559731520089">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/First_python_project/First_python_project.py" timestamp="1559665571014">
         <mark key="[" line="0" column="0" />
@@ -45,17 +41,27 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/python_fun/python_fun.py" timestamp="1559686551823">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/simple_calculator/simple_calculator.py" timestamp="1559731520089">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/input_python/input_python.py" timestamp="1559730013858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/tuples/tuples.py" timestamp="1559820620614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python_fun/python_fun.py" timestamp="1559686551823">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/functions/functions.py" timestamp="1559824270361">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -63,25 +69,38 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CmZyaWVuZCA9ICJLdWJhIgpwcmludCByZXZlcnNlZChmcmllbmQp</text>
+        <text>print(&quot;&quot;)
+def question(name):
+    print(&quot;Enter your name: &quot;)
+    name = input()
+
+question()</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmZyaWVuZCA9ICJLdWJhIgpwcmludCByZXZlcnNlZChmcmllbmQp</text>
+        <text>print(&quot;&quot;)
+def question(name):
+    print(&quot;Enter your name: &quot;)
+    name = input()
+
+question()</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CmZyaWVuZCA9ICJLdWJhIgpwcmludCByZXZlcnNlZChmcmllbmQp</text>
+      </register>
+      <register name="3" type="4">
         <text>2
 #</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CnByaW50ICgiIikKCgpwaHJhc2UgPSAiZ29pbmcgdG8iCnNlbnRlbmNlID0gKCBwaHJhc2UgKyAiIGNsZWFuIGNvZGUhIikKcHJpbnQgKHNlbnRlbmNlKQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>character_as = &quot;noise&quot;
 character_language = &quot;python&quot;
 
 print (+ character_as + &quot;is was always interesting new technologies)</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>&quot;</text>
       </register>
       <register name="w" type="4">
