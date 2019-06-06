@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559824334179">
+      <file name="/Dummy.txt" timestamp="1559826876226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1559687129814">
+      <file name="/Python Console" timestamp="1559827153368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/First_python_project/First_python_project.py" timestamp="1559665571014">
@@ -57,11 +57,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/tuples/tuples.py" timestamp="1559820620614">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/functions/functions.py" timestamp="1559824270361">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
