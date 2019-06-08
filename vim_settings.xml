@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559994482379">
+      <file name="/Dummy.txt" timestamp="1559995050251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -11,6 +11,11 @@
       </file>
       <file name="/Python Console" timestamp="1559827153368">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/example_of_return/example_of_return.py" timestamp="1559995014939">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/check_prime_number/prime_number.py" timestamp="1559866864503">
         <mark key="[" line="1" column="9" />
@@ -80,7 +85,7 @@
         <text encoding="base64">CgojIHRha2UgaW5wdXQgZnJvbSB0aGUgdXNlcgojIG51bSA9IGludChpbnB1dCgiRW50ZXIgYSBudW1iZXI6ICIpKQoKIyBwcmltZSBudW1iZXJzIGFyZSBncmVhdGVyIHRoYW4gMQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgojIHRha2UgaW5wdXQgZnJvbSB0aGUgdXNlcgojIG51bSA9IGludChpbnB1dCgiRW50ZXIgYSBudW1iZXI6ICIpKQoKIyBwcmltZSBudW1iZXJzIGFyZSBncmVhdGVyIHRoYW4gMQ==</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CmlzX21hbGUgPSBUcnVlCgppZiBpc19tYWxlOgogICAgcHJpbnQoIllvdSBhcmUgYSBtYWxlIikKZWxzZToKICAgIHByaW50KCJZb3UgYXJlIG5vdCBhIG1hbGUiKQ==</text>
@@ -116,7 +121,7 @@ print (+ character_as + &quot;is was always interesting new technologies)</text>
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFub3RoZXI=</text>
+        <text encoding="base64">CQ==</text>
       </register>
     </registers>
     <search>
