@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559866902699">
+      <file name="/Dummy.txt" timestamp="1559994482379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -51,6 +51,9 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/random_password/random_password.py" timestamp="1559994439301">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simple_calculator/simple_calculator.py" timestamp="1559731520089">
         <mark key="[" line="2" column="20" />
