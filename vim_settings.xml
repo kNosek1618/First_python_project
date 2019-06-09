@@ -65,10 +65,10 @@
       <file name="$USER_HOME$/PycharmProjects/random_password/random_password.py" timestamp="1559994439301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/factorial_number/factorial_number.py" timestamp="1560078578110">
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="13" column="60" />
-        <mark key="." line="13" column="60" />
+      <file name="$USER_HOME$/PycharmProjects/factorial_number/factorial_number.py" timestamp="1560078814949">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/simple_calculator/simple_calculator.py" timestamp="1559731520089">
         <mark key="[" line="2" column="20" />
@@ -92,24 +92,30 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">I1dlIG11c3QgcmVkZWZpbmUgaXQgaW4gUHkzayBpZiBpdCdzIG5vdCBhbHJlYWR5IHRoZXJlCmRlZiBleGVjZmlsZShmaWxlLCBnbG9iPU5vbmUsIGxvYz1Ob25lKToKICAgIGlmIGdsb2IgaXMgTm9uZToKICAgICAgICBpbXBvcnQgc3lzCiAgICAgICAgZ2xvYiA9IHN5cy5fZ2V0ZnJhbWUoKS5mX2JhY2suZl9nbG9iYWxzCiAgICBpZiBsb2MgaXMgTm9uZToKICAgICAgICBsb2MgPSBnbG9iCgogICAgaW1wb3J0IHRva2VuaXplCiAgICBzdHJlYW0gPSB0b2tlbml6ZS5vcGVuKGZpbGUpICAjIEBVbmRlZmluZWRWYXJpYWJsZQogICAgdHJ5OgogICAgICAgIGNvbnRlbnRzID0gc3RyZWFtLnJlYWQoKQogICAgZmluYWxseToKICAgICAgICBzdHJlYW0uY2xvc2UoKQoKICAgICNleGVjdXRlIHRoZSBzY3JpcHQgKG5vdGU6IGl0J3MgaW1wb3J0YW50IHRvIGNvbXBpbGUgZmlyc3QgdG8gaGF2ZSB0aGUgZmlsZW5hbWUgc2V0IGluIGRlYnVnIG1vZGUpCiAgICBleGVjKGNvbXBpbGUoY29udGVudHMrIlxuIiwgZmlsZSwgJ2V4ZWMnKSwgZ2xvYiwgbG9jKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</text>
+        <text encoding="base64">ICAgIiIiVGhpcyBpcyBhIHJlY3Vyc2l2ZSBmdW5jdGlvbgogICAgdG8gZmluZCB0aGUgZmFjdG9yaWFsIG9mIGFuIGludGVnZXIiIiI=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">I1dlIG11c3QgcmVkZWZpbmUgaXQgaW4gUHkzayBpZiBpdCdzIG5vdCBhbHJlYWR5IHRoZXJlCmRlZiBleGVjZmlsZShmaWxlLCBnbG9iPU5vbmUsIGxvYz1Ob25lKToKICAgIGlmIGdsb2IgaXMgTm9uZToKICAgICAgICBpbXBvcnQgc3lzCiAgICAgICAgZ2xvYiA9IHN5cy5fZ2V0ZnJhbWUoKS5mX2JhY2suZl9nbG9iYWxzCiAgICBpZiBsb2MgaXMgTm9uZToKICAgICAgICBsb2MgPSBnbG9iCgogICAgaW1wb3J0IHRva2VuaXplCiAgICBzdHJlYW0gPSB0b2tlbml6ZS5vcGVuKGZpbGUpICAjIEBVbmRlZmluZWRWYXJpYWJsZQogICAgdHJ5OgogICAgICAgIGNvbnRlbnRzID0gc3RyZWFtLnJlYWQoKQogICAgZmluYWxseToKICAgICAgICBzdHJlYW0uY2xvc2UoKQoKICAgICNleGVjdXRlIHRoZSBzY3JpcHQgKG5vdGU6IGl0J3MgaW1wb3J0YW50IHRvIGNvbXBpbGUgZmlyc3QgdG8gaGF2ZSB0aGUgZmlsZW5hbWUgc2V0IGluIGRlYnVnIG1vZGUpCiAgICBleGVjKGNvbXBpbGUoY29udGVudHMrIlxuIiwgZmlsZSwgJ2V4ZWMnKSwgZ2xvYiwgbG9jKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</text>
+        <text encoding="base64">ICAgIiIiVGhpcyBpcyBhIHJlY3Vyc2l2ZSBmdW5jdGlvbgogICAgdG8gZmluZCB0aGUgZmFjdG9yaWFsIG9mIGFuIGludGVnZXIiIiI=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgogICAgIyBJdCBzZWVtcyB0aGF0IHRoZSBiZXN0IHdheSBpcyB1c2luZyB0b2tlbml6ZS5vcGVuKCk6IGh0dHA6Ly9jb2RlLmFjdGl2ZXN0YXRlLmNvbS9saXN0cy9weXRob24tZGV2LzEzMTI1MS8=</text>
+        <text encoding="base64">I1dlIG11c3QgcmVkZWZpbmUgaXQgaW4gUHkzayBpZiBpdCdzIG5vdCBhbHJlYWR5IHRoZXJlCmRlZiBleGVjZmlsZShmaWxlLCBnbG9iPU5vbmUsIGxvYz1Ob25lKToKICAgIGlmIGdsb2IgaXMgTm9uZToKICAgICAgICBpbXBvcnQgc3lzCiAgICAgICAgZ2xvYiA9IHN5cy5fZ2V0ZnJhbWUoKS5mX2JhY2suZl9nbG9iYWxzCiAgICBpZiBsb2MgaXMgTm9uZToKICAgICAgICBsb2MgPSBnbG9iCgogICAgaW1wb3J0IHRva2VuaXplCiAgICBzdHJlYW0gPSB0b2tlbml6ZS5vcGVuKGZpbGUpICAjIEBVbmRlZmluZWRWYXJpYWJsZQogICAgdHJ5OgogICAgICAgIGNvbnRlbnRzID0gc3RyZWFtLnJlYWQoKQogICAgZmluYWxseToKICAgICAgICBzdHJlYW0uY2xvc2UoKQoKICAgICNleGVjdXRlIHRoZSBzY3JpcHQgKG5vdGU6IGl0J3MgaW1wb3J0YW50IHRvIGNvbXBpbGUgZmlyc3QgdG8gaGF2ZSB0aGUgZmlsZW5hbWUgc2V0IGluIGRlYnVnIG1vZGUpCiAgICBleGVjKGNvbXBpbGUoY29udGVudHMrIlxuIiwgZmlsZSwgJ2V4ZWMnKSwgZ2xvYiwgbG9jKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">I1RoaXMgZnVuY3Rpb24gcmV0dXJucyB0aGUgYWJzb2x1dGUKI3ZhbHVlIG9mIHRoZSBlbnRlcmVkIG51bWJlcgoKZGVmIGFic29sdXRlX3ZhbHVlKG51bSk6CgoJaWYgbnVtID49IDA6CgkJcmV0dXJuIG51bQoJZWxzZToKCQlyZXR1cm4gLW51bQoKIyBPdXRwdXQ6IDIKcHJpbnQoYWJzb2x1dGVfdmFsdWUoMikpCgojIE91dHB1dDogNApwcmludChhYnNvbHV0ZV92YWx1ZSgtNCkp</text>
+        <text encoding="base64">CgogICAgIyBJdCBzZWVtcyB0aGF0IHRoZSBiZXN0IHdheSBpcyB1c2luZyB0b2tlbml6ZS5vcGVuKCk6IGh0dHA6Ly9jb2RlLmFjdGl2ZXN0YXRlLmNvbS9saXN0cy9weXRob24tZGV2LzEzMTI1MS8=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CgojIHRha2UgaW5wdXQgZnJvbSB0aGUgdXNlcgojIG51bSA9IGludChpbnB1dCgiRW50ZXIgYSBudW1iZXI6ICIpKQoKIyBwcmltZSBudW1iZXJzIGFyZSBncmVhdGVyIHRoYW4gMQ==</text>
+        <text encoding="base64">I1RoaXMgZnVuY3Rpb24gcmV0dXJucyB0aGUgYWJzb2x1dGUKI3ZhbHVlIG9mIHRoZSBlbnRlcmVkIG51bWJlcgoKZGVmIGFic29sdXRlX3ZhbHVlKG51bSk6CgoJaWYgbnVtID49IDA6CgkJcmV0dXJuIG51bQoJZWxzZToKCQlyZXR1cm4gLW51bQoKIyBPdXRwdXQ6IDIKcHJpbnQoYWJzb2x1dGVfdmFsdWUoMikpCgojIE91dHB1dDogNApwcmludChhYnNvbHV0ZV92YWx1ZSgtNCkp</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CmlzX21hbGUgPSBUcnVlCgppZiBpc19tYWxlOgogICAgcHJpbnQoIllvdSBhcmUgYSBtYWxlIikKZWxzZToKICAgIHByaW50KCJZb3UgYXJlIG5vdCBhIG1hbGUiKQ==</text>
+        <text encoding="base64">CgojIHRha2UgaW5wdXQgZnJvbSB0aGUgdXNlcgojIG51bSA9IGludChpbnB1dCgiRW50ZXIgYSBudW1iZXI6ICIpKQoKIyBwcmltZSBudW1iZXJzIGFyZSBncmVhdGVyIHRoYW4gMQ==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CmlzX21hbGUgPSBUcnVlCgppZiBpc19tYWxlOgogICAgcHJpbnQoIllvdSBhcmUgYSBtYWxlIikKZWxzZToKICAgIHByaW50KCJZb3UgYXJlIG5vdCBhIG1hbGUiKQ==</text>
+      </register>
+      <register name="w" type="4">
+        <text>wew</text>
+      </register>
+      <register name="7" type="4">
         <text>print(&quot;&quot;)
 def question(name):
     print(&quot;Enter your name: &quot;)
@@ -117,18 +123,12 @@ def question(name):
 
 question()</text>
       </register>
-      <register name="w" type="4">
-        <text>wew</text>
-      </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CmZyaWVuZCA9ICJLdWJhIgpwcmludCByZXZlcnNlZChmcmllbmQp</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>2
 #</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnByaW50ICgiIikKCgpwaHJhc2UgPSAiZ29pbmcgdG8iCnNlbnRlbmNlID0gKCBwaHJhc2UgKyAiIGNsZWFuIGNvZGUhIikKcHJpbnQgKHNlbnRlbmNlKQ==</text>
       </register>
       <register name="-" type="4">
         <text>http://code.activestate.com/lists/python-dev/131251/</text>
