@@ -12,10 +12,10 @@
       <file name="/Python Console" timestamp="1559827153368">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/example_of_return/example_of_return.py" timestamp="1559995014939">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/example_of_return/example_of_return.py" timestamp="1560074258294">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/check_prime_number/prime_number.py" timestamp="1559866864503">
         <mark key="[" line="1" column="9" />
@@ -82,15 +82,18 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CgojIHRha2UgaW5wdXQgZnJvbSB0aGUgdXNlcgojIG51bSA9IGludChpbnB1dCgiRW50ZXIgYSBudW1iZXI6ICIpKQoKIyBwcmltZSBudW1iZXJzIGFyZSBncmVhdGVyIHRoYW4gMQ==</text>
+        <text encoding="base64">I1RoaXMgZnVuY3Rpb24gcmV0dXJucyB0aGUgYWJzb2x1dGUKI3ZhbHVlIG9mIHRoZSBlbnRlcmVkIG51bWJlcgoKZGVmIGFic29sdXRlX3ZhbHVlKG51bSk6CgoJaWYgbnVtID49IDA6CgkJcmV0dXJuIG51bQoJZWxzZToKCQlyZXR1cm4gLW51bQoKIyBPdXRwdXQ6IDIKcHJpbnQoYWJzb2x1dGVfdmFsdWUoMikpCgojIE91dHB1dDogNApwcmludChhYnNvbHV0ZV92YWx1ZSgtNCkp</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">I1RoaXMgZnVuY3Rpb24gcmV0dXJucyB0aGUgYWJzb2x1dGUKI3ZhbHVlIG9mIHRoZSBlbnRlcmVkIG51bWJlcgoKZGVmIGFic29sdXRlX3ZhbHVlKG51bSk6CgoJaWYgbnVtID49IDA6CgkJcmV0dXJuIG51bQoJZWxzZToKCQlyZXR1cm4gLW51bQoKIyBPdXRwdXQ6IDIKcHJpbnQoYWJzb2x1dGVfdmFsdWUoMikpCgojIE91dHB1dDogNApwcmludChhYnNvbHV0ZV92YWx1ZSgtNCkp</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmlzX21hbGUgPSBUcnVlCgppZiBpc19tYWxlOgogICAgcHJpbnQoIllvdSBhcmUgYSBtYWxlIikKZWxzZToKICAgIHByaW50KCJZb3UgYXJlIG5vdCBhIG1hbGUiKQ==</text>
+        <text encoding="base64">CgojIHRha2UgaW5wdXQgZnJvbSB0aGUgdXNlcgojIG51bSA9IGludChpbnB1dCgiRW50ZXIgYSBudW1iZXI6ICIpKQoKIyBwcmltZSBudW1iZXJzIGFyZSBncmVhdGVyIHRoYW4gMQ==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CmlzX21hbGUgPSBUcnVlCgppZiBpc19tYWxlOgogICAgcHJpbnQoIllvdSBhcmUgYSBtYWxlIikKZWxzZToKICAgIHByaW50KCJZb3UgYXJlIG5vdCBhIG1hbGUiKQ==</text>
+      </register>
+      <register name="4" type="4">
         <text>print(&quot;&quot;)
 def question(name):
     print(&quot;Enter your name: &quot;)
@@ -98,26 +101,26 @@ def question(name):
 
 question()</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmZyaWVuZCA9ICJLdWJhIgpwcmludCByZXZlcnNlZChmcmllbmQp</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>2
 #</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnByaW50ICgiIikKCgpwaHJhc2UgPSAiZ29pbmcgdG8iCnNlbnRlbmNlID0gKCBwaHJhc2UgKyAiIGNsZWFuIGNvZGUhIikKcHJpbnQgKHNlbnRlbmNlKQ==</text>
       </register>
       <register name="w" type="4">
         <text>wew</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">CnByaW50ICgiIikKCgpwaHJhc2UgPSAiZ29pbmcgdG8iCnNlbnRlbmNlID0gKCBwaHJhc2UgKyAiIGNsZWFuIGNvZGUhIikKcHJpbnQgKHNlbnRlbmNlKQ==</text>
+      </register>
+      <register name="8" type="4">
         <text>character_as = &quot;noise&quot;
 character_language = &quot;python&quot;
 
 print (+ character_as + &quot;is was always interesting new technologies)</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>&quot;</text>
       </register>
       <register name="-" type="4">
