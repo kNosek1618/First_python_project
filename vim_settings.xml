@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1560087994241">
+      <file name="/Dummy.txt" timestamp="1560089810569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1560078613887">
+      <file name="/Python Console" timestamp="1560088975805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/example_of_return/example_of_return.py" timestamp="1560074258294">
@@ -22,7 +22,7 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py" timestamp="1560078767246">
+      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py" timestamp="1560089000033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,6 +75,11 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/def_function_2.0/def_finction_2.0.py" timestamp="1560089797631">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/input_python/input_python.py" timestamp="1559730013858">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,7 +100,7 @@
         <text encoding="base64">ICAgIiIiVGhpcyBpcyBhIHJlY3Vyc2l2ZSBmdW5jdGlvbgogICAgdG8gZmluZCB0aGUgZmFjdG9yaWFsIG9mIGFuIGludGVnZXIiIiI=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIiIiVGhpcyBpcyBhIHJlY3Vyc2l2ZSBmdW5jdGlvbgogICAgdG8gZmluZCB0aGUgZmFjdG9yaWFsIG9mIGFuIGludGVnZXIiIiI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">I1dlIG11c3QgcmVkZWZpbmUgaXQgaW4gUHkzayBpZiBpdCdzIG5vdCBhbHJlYWR5IHRoZXJlCmRlZiBleGVjZmlsZShmaWxlLCBnbG9iPU5vbmUsIGxvYz1Ob25lKToKICAgIGlmIGdsb2IgaXMgTm9uZToKICAgICAgICBpbXBvcnQgc3lzCiAgICAgICAgZ2xvYiA9IHN5cy5fZ2V0ZnJhbWUoKS5mX2JhY2suZl9nbG9iYWxzCiAgICBpZiBsb2MgaXMgTm9uZToKICAgICAgICBsb2MgPSBnbG9iCgogICAgaW1wb3J0IHRva2VuaXplCiAgICBzdHJlYW0gPSB0b2tlbml6ZS5vcGVuKGZpbGUpICAjIEBVbmRlZmluZWRWYXJpYWJsZQogICAgdHJ5OgogICAgICAgIGNvbnRlbnRzID0gc3RyZWFtLnJlYWQoKQogICAgZmluYWxseToKICAgICAgICBzdHJlYW0uY2xvc2UoKQoKICAgICNleGVjdXRlIHRoZSBzY3JpcHQgKG5vdGU6IGl0J3MgaW1wb3J0YW50IHRvIGNvbXBpbGUgZmlyc3QgdG8gaGF2ZSB0aGUgZmlsZW5hbWUgc2V0IGluIGRlYnVnIG1vZGUpCiAgICBleGVjKGNvbXBpbGUoY29udGVudHMrIlxuIiwgZmlsZSwgJ2V4ZWMnKSwgZ2xvYiwgbG9jKQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</text>
@@ -131,7 +136,7 @@ question()</text>
 #</text>
       </register>
       <register name="-" type="4">
-        <text>http://code.activestate.com/lists/python-dev/131251/</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
