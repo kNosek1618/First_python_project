@@ -122,6 +122,10 @@
           <option name="url" value="https://github.com/kNosek1618/classes_and_objects.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kNosek1618/multiply_choice_quiz.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kooon\PycharmProjects" />
