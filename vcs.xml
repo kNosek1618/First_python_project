@@ -130,6 +130,10 @@
           <option name="url" value="https://github.com/kNosek1618/object_function.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kNosek1618/inheritance.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kooon\PycharmProjects" />
