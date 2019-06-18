@@ -146,6 +146,10 @@
           <option name="url" value="https://github.com/kNosek1618/ASCII.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kNosek1618/buble_sort.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kooon\PycharmProjects" />
