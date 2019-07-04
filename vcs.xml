@@ -154,6 +154,10 @@
           <option name="url" value="https://github.com/kNosek1618/convert_12_hour_to_24.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kNosek1618/last_thursday.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kooon\PycharmProjects" />
